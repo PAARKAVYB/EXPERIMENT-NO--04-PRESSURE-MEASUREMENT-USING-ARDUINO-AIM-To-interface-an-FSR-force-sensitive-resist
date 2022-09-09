@@ -39,7 +39,7 @@ Table -01 indicates the approximate analog voltage based on the sensor force/res
 ![image](https://user-images.githubusercontent.com/36288975/163532979-a2a5cb5c-f495-442c-843e-bebb82737a35.png)
 
 ## FIGURE-03 CIRCUIT DIAGRAM
-![output](op1.png)
+![op1](https://user-images.githubusercontent.com/93509383/189411946-60a79c5d-6f60-4db0-ba8a-544519d01f5a.png)
 
 # PROCEDURE:
 1.	Connect the circuit as per the circuit diagram.
